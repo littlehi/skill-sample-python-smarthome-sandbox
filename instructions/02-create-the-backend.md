@@ -7,7 +7,7 @@ These instructions create the backend services needed by the Smart Home Skill us
 
 <span style="color:#ccc">2.1.2</span> Verify you are in the N. Virginia (us-east-1) region and click the **Create Stack** button.
 
-<span style="color:#ccc">2.1.3</span> In the _Specify Template_ section, select the **Amazon S3 template URL** radio button and enter the following URL `https://awsdemocc.s3-us-west-2.amazonaws.com/skill-sample-python-smarthome-sandbox/backend.template` into the S3 URL field.
+<span style="color:#ccc">2.1.3</span> In the _Specify Template_ section, select the **Amazon S3 template URL** radio button and enter the following URL `https://awsdemo-code.s3.amazonaws.com/skill-sample-python-smarthome-sandbox/backend.template` into the S3 URL field.
 
 <span style="color:#ccc">2.1.4</span> Click **Next** on the bottom right of the page.
 
